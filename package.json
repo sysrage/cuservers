@@ -1,6 +1,6 @@
 {
   "name": "cuservers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Camelot Unchained Server and Scenario Status Page.",
   "keywords": [
     "camelot",
@@ -11,10 +11,9 @@
   ],
   "author": {
     "name": "Brian Bothwell",
-    "email": "sysrage@gmail.com",
-    "url": "http://www.sysrage.net/"
+    "email": "sysrage@gmail.com"
   },
-  "homepage": "http://cuservers.sysrage.net",
+  "homepage": "https://cuservers.herokuapp.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/sysrage/cuservers"
@@ -25,8 +24,5 @@
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
-  "bundleDependencies": [],
-  "private": true,
   "main": "server.js"
 }
