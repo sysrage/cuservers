@@ -1,0 +1,32 @@
+{
+  "name": "cuservers",
+  "version": "0.0.1",
+  "description": "Camelot Unchained Server and Scenario Status Page.",
+  "keywords": [
+    "camelot",
+    "unchained",
+    "game",
+    "Node.js",
+    "application"
+  ],
+  "author": {
+    "name": "Brian Bothwell",
+    "email": "sysrage@gmail.com",
+    "url": "http://www.sysrage.net/"
+  },
+  "homepage": "http://cuservers.sysrage.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sysrage/cuservers"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}
